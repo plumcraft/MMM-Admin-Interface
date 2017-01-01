@@ -5,7 +5,7 @@
  * By ItayXD
  * GPL-3.0 Licensed.
  */
-Module.register( "MMM-Admin-Interface", {
+Module.register( "mmm-admin-interface", {
 	requiresVersion: "2.0.0",
 
 	defaults: {
