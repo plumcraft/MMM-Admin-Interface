@@ -1,1 +1,1 @@
-{ module: 'mmm-admin-interface' };
+{ module: 'mmm-admin-interface' }
